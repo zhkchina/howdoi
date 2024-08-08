@@ -193,3 +193,6 @@ how to get up and running with your first pull request.
     ([\@miserlou](https://github.com/miserlou)) for the idea
 -   More thanks to [Ben Bronstein](https://benbronstein.com/) for the
     logo
+
+## zhangkun
+-    代码阅读与测试练习
